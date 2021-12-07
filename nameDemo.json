@@ -1,4 +1,14 @@
 {
 	"firstName": "Fred",
-	"last_name": "flintstone3"
+	"last_name": "flintstone3",
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		},
+		{
+			"name": "dINO",
+			"birthday": "2020-01-01"
+		}
+	]
 }
