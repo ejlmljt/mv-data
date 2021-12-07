@@ -1,6 +1,6 @@
 {
 	"firstName": "Fred",
-	"last_name": "flintstone3",
+	"last_name": "flintstone4",
 	"pet": [
 		{
 			"name": "Adam Catlace",
@@ -9,6 +9,10 @@
 		{
 			"name": "dINO",
 			"birthday": "2020-01-01"
+		},
+		{
+			"name": "FRITZ",
+			"birthday": "2021-11-30"
 		}
 	]
 }
